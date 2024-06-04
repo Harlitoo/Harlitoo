@@ -6,7 +6,7 @@
 - 😄 Harley
 - ⚡ Fun fact: I like Videogames and Cinema
 
- https://www.linkedin.com/in/hugo-harley/
+<---
 Harlitoo/Harlitoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
